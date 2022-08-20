@@ -5,7 +5,7 @@ It captures the mic input and determines the input volume level, and displays as
 This was a side project created as a POC so sloppy code, WIP.
 
 
-Those are the necessary commands that need to be run.  
+The following need to be installed. 
 ========================================  
 sudo apt-get install python3-pip  
 pip install colored   
