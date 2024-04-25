@@ -2,7 +2,7 @@
 
 Code to monitor loudness
 * It captures the mic input and determines the input volume level, and displays as a bar chart, for example to monitor the noise level in the room.
-* This was a simple poc to capture how the level of noise coming from a room
+* This was a simple poc to capture noise level e.g. Overly exicted kids playing video games.
 
 Note: 
 --------
