@@ -66,4 +66,4 @@ The following dependencies need to be installed:
 **Implementation**: Use existing smart speakers connected to your network to deliver pre-set verbal messages when high noise levels are detected.
 
 ### Privacy Considerations
-Ensure all household members are informed about how the system works and its purpose to manage expectations and privacy concerns effectively.
+Probably want to make sure your household knows your running this stuff !!
